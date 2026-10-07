@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2"
+     baseProfile="tiny-ps"
+     viewBox="0 0 800 800">
+  <title>Suchni Real Estate</title>
+  <desc>Suchni Real Estate gold and white mountain logo</desc>
+
+  <circle cx="400" cy="400" r="392" fill="#D4B800"/>
+  <circle cx="400" cy="400" r="374" fill="#8D99A8"/>
+
+  <!-- Vector mountain landscape kept inside the circular safe area -->
+  <path fill="#68717D"
+        d="M46 520 L135 366 L205 438 L302 300 L399 420 L480 280 L578 402 L666 332 L754 500 L754 620 L46 620 Z"/>
+  <path fill="#4F5863"
+        d="M46 565 L142 414 L225 493 L322 357 L410 466 L493 340 L584 454 L672 386 L754 520 L754 665 L46 665 Z"/>
+  <path fill="#313943"
+        d="M55 620 L160 526 L250 600 L350 500 L445 608 L540 520 L640 608 L745 540 L745 705 L55 705 Z"/>
+
+  <path fill="#E8EDF0"
+        d="M302 300 L343 352 L399 420 L365 395 L333 414 L302 392 L275 418 L250 398 Z"/>
+  <path fill="#F5F7F8"
+        d="M480 280 L520 348 L578 402 L540 381 L512 400 L486 374 L455 391 L431 365 Z"/>
+
+  <g fill="#171C20">
+    <path d="M112 594 l-25 55 h17 l-25 42 h28 v42 h10 v-42 h28 l-25-42 h17 z"/>
+    <path d="M690 548 l-27 58 h18 l-27 45 h30 v48 h11 v-48 h30 l-27-45 h18 z"/>
+    <path d="M735 585 l-22 47 h14 l-22 37 h24 v39 h9 v-39 h25 l-22-37 h14 z"/>
+  </g>
+
+  <!-- Suchni monogram -->
+  <path fill="#FFFFFF"
+        d="M205 307 C205 245 254 204 326 204 H493
+           C566 204 614 245 614 307
+           C614 342 601 365 578 383
+           C565 393 547 400 526 404 L526 356
+           C552 349 565 333 565 307
+           C565 278 542 256 497 256 H324
+           C280 256 256 278 256 307
+           C256 329 268 345 291 355 L291 406
+           C236 392 205 358 205 307 Z"/>
+
+  <path fill="#D4B800"
+        d="M300 381 H503
+           C585 381 636 420 636 487
+           C636 553 585 592 505 592 H297
+           C223 592 175 558 175 493 V450 H225 V486
+           C225 521 248 540 299 540 H503
+           C552 540 585 522 585 487
+           C585 451 552 433 503 433 H300 Z"/>
+
+  <path fill="#FFFFFF" d="M225 450 H274 V500 H225 Z"/>
+</svg>
